@@ -1,0 +1,3 @@
+g2clib-1.6.0:
+    Library contains GRIB2 encoder/decoder ("C" version)
+    https://www.nco.ncep.noaa.gov/pmb/codes/GRIB2/
